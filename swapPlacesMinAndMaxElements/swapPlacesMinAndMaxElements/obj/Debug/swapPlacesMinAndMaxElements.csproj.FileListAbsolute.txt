@@ -1,0 +1,7 @@
+D:\С# программирование\swapPlacesMinAndMaxElements\swapPlacesMinAndMaxElements\bin\Debug\swapPlacesMinAndMaxElements.exe.config
+D:\С# программирование\swapPlacesMinAndMaxElements\swapPlacesMinAndMaxElements\bin\Debug\swapPlacesMinAndMaxElements.exe
+D:\С# программирование\swapPlacesMinAndMaxElements\swapPlacesMinAndMaxElements\bin\Debug\swapPlacesMinAndMaxElements.pdb
+D:\С# программирование\swapPlacesMinAndMaxElements\swapPlacesMinAndMaxElements\obj\Debug\swapPlacesMinAndMaxElements.csprojAssemblyReference.cache
+D:\С# программирование\swapPlacesMinAndMaxElements\swapPlacesMinAndMaxElements\obj\Debug\swapPlacesMinAndMaxElements.csproj.CoreCompileInputs.cache
+D:\С# программирование\swapPlacesMinAndMaxElements\swapPlacesMinAndMaxElements\obj\Debug\swapPlacesMinAndMaxElements.exe
+D:\С# программирование\swapPlacesMinAndMaxElements\swapPlacesMinAndMaxElements\obj\Debug\swapPlacesMinAndMaxElements.pdb
